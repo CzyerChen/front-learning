@@ -1,0 +1,32 @@
+vue-learning/.DS_Store
+vue-learning/node_modules
+vue-learning/dist/
+vue-learning/npm-debug.log*
+vue-learning/yarn-debug.log*
+vue-learning/yarn-error.log*
+vue-learning/test/unit/coverage
+vue-learning/test/e2e/reports
+vue-learning/selenium-debug.log
+
+# Editor directories and files
+vue-learning/.idea
+vue-learning/.vscode
+vue-learning/package-lock.json
+
+node-learning/.DS_Store
+node-learning/node_modules
+node-learning/dist/
+node-learning/npm-debug.log*
+node-learning/yarn-debug.log*
+node-learning/yarn-error.log*
+node-learning/test/unit/coverage
+node-learning/test/e2e/reports
+node-learning/selenium-debug.log
+
+# Editor directories and files
+node-learning/.idea
+node-learning/.vscode
+node-learning/package-lock.json
+
+*.iml
+.idea/*
